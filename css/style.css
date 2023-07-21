@@ -8545,7 +8545,7 @@ textarea.form-control {
 
     #abc {
       position: relative;
-      width:210px;
+      width:auto;
       height: 50px;
       /* margin: 5px 60px;
       padding: 5px 40px; */
@@ -8588,6 +8588,7 @@ textarea.form-control {
     
     
     @media (max-width: 400px) {
-      #abc { font-size: 1.5rem; }
+      #abc { font-size: auto;
+     }
     }
     
