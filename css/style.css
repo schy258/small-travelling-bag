@@ -11173,7 +11173,7 @@ textarea.form-control {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #fff; 
+  background: transparent; 
 }
  
 /* Handle */
